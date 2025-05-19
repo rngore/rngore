@@ -8,13 +8,10 @@
 ![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Ravanger101&data=followers,repositories,stars,commits&theme=darkmode)
 
 ### Introduction:
-> Greetings! **Aryan** Here. I am a **Student, Artist, Game-Software-Web Developer. Beside Programming I love watching Anime, Drawing and making new things!**
+> Hello, I’m **Aryan Gore** — a student, and a passionate developer specializing in web, software, and game development. I also serve as the CEO and founder of my Realms, combining innovation with leadership to drive impactful solutions. **
 
-> I find Coding very **Amazing**. Programming helps me keep my brain constantly thinking. I am on a **Quest** to create something awesome in this Digital World.
+> There are infinitely many things I wish to learn and explore. I am on a continuous journey to create meaningful and innovative solutions in today’s technology-driven world.
 
-> There are **Infinitely** many things I want to learn and work on it, Creating best of best piece of Applications for the World is my Mission.
-
-> I go by many Usernames like- Ravanger101, Aryan™ and Kakashi
 
 ### Connect with me:
 
