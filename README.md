@@ -21,7 +21,7 @@
 [![](https://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rngore) 
 [![](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge)](https://aryangore.netlify.app/)
 [![](https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:aryangore)](mailto:rngore@gmail.com)
-[![](https://img.shields.io/badge/resume-000000?style=for-the-badge)](https://twitter.com/Ravanger101)
+
 
 
 
