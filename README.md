@@ -1,11 +1,7 @@
 <h1 align="center">Hello, I am Aryan! 😄</h1>
 <h3 align="center">Welcome to my GitHub Profile.</h3>
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/ravanger101/count.svg"/>
-</p>
 
-![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Ravanger101&data=followers,repositories,stars,commits&theme=darkmode)
+
 
 ### Introduction:
 > Hello, I’m **Aryan Gore** — a student, and a passionate developer specializing in web, software, and game development. I also serve as the CEO and founder of my Realms, combining innovation with leadership to drive impactful solutions. **
