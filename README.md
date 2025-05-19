@@ -21,7 +21,7 @@
 [![](https://img.shields.io/badge/-Github-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rngore) 
 [![](https://img.shields.io/badge/-Website-7e22ff?style=for-the-badge)](https://aryangore.netlify.app/)
 [![](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:aryangore)](mailto:rngore@gmail.com)
-[![](https://img.shields.io/badge/R%C3%A9sum%C3%A9?style=for-the-badge&labelColor=white&color=Black))](https://twitter.com/Ravanger101)
+[![](https://img.shields.io/badge/R%C3%A9sum%C3%A9?style=for-the-badge&labelColor=white&color=Black)](https://twitter.com/Ravanger101)
 
 
 
