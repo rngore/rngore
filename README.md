@@ -4,7 +4,7 @@
 
 
 ### Introduction:
-> Hello, I’m **Aryan Gore** — a student, and a passionate developer specializing in web, software, and game development. I also serve as the CEO and founder of my Realms, combining innovation with leadership to drive impactful solutions. **
+> Hello, I’m **Aryan Gore** — a student, and a passionate developer specializing in web, software, and game development. I stand as a CEO and a founder of an organisation, combining innovation with leadership to drive impactful solutions. **
 
 > There are infinitely many things I wish to learn and explore. I am on a continuous journey to create meaningful and innovative solutions in today’s technology-driven world.
 
