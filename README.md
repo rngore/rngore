@@ -1,2 +1,1 @@
-### rngore 
->/'ar.yan go.re/
+### rngore /'ar.yan go.re/
